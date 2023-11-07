@@ -20,3 +20,5 @@
           ((= kinds-of-coins 5) 50)))
 
 (count-change 100) ; 292
+
+(count-change 11) ; 4
