@@ -39,3 +39,19 @@ x
 
 (fringe (list x x))
 ;Value: (1 2 3 4 1 2 3 4)
+
+#|----------------------------------------------------------------|#
+
+;;; 学到第 78 页的时候，回过头来改进
+
+(define (new-fringe x)
+    (cond ((null? x) '())
+          ((not (pair? x)) (list x))
+          (else (append (new-fringe (car x))
+                        (new-fringe (cdr x))))))
+
+(new-fringe x)
+;Value: (1 2 3 4)
+
+(new-fringe (list x x x))
+;Value: (1 2 3 4 1 2 3 4 1 2 3 4)
