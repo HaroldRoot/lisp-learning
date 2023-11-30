@@ -12,6 +12,8 @@
 	- [jiacai2050/sicp: 📖 SICP 读书笔记，习题解答 (github.com)](https://github.com/jiacai2050/sicp)
 	- [huangz1990/SICP-answers: 我的 SICP 解题集 (github.com)](https://github.com/huangz1990/SICP-answers)
 	- [sicp-solutions (schemewiki.org)](http://community.schemewiki.org/?sicp-solutions)
+	- [sarabander/sicp: HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
+	- [DeathKing/Learning-SICP: MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。](https://github.com/DeathKing/Learning-SICP)
 
 ## 配置环境
 
