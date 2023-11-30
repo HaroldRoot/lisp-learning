@@ -46,7 +46,7 @@
 		- 确保对象 `"code-runner.executorMapByFileExtension"` 中含有 `".lisp": "sbcl --script"`
 		- 确保对象 `"code-runner.executorMap"` 中也含有 `"lisp": "sbcl --script"`
 
-## Scheme 实现
+### Scheme 实现
 
 - [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/)
 	- 在 Code Runner 扩展的 `settings.json` 中
