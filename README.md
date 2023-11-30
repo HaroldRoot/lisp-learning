@@ -1,3 +1,7 @@
+# Lisp 自学记录
+
+目前在学 Scheme，持续更新 SICP 题解中。
+
 ## 学习资源
 
 - Common Lisp
