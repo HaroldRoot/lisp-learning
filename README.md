@@ -1,6 +1,7 @@
-# Lisp 自学记录
+# SICP 自学记录
 
-目前在学 Scheme，持续更新 SICP 题解中。
+《计算机程序的构造和解释》（Structure and Interpretation
+of Computer Programs）自学记录。
 
 ## 学习资源
 
