@@ -15,6 +15,7 @@ of Computer Programs）自学记录。
 	- [sicp-solutions (schemewiki.org)](http://community.schemewiki.org/?sicp-solutions)
 	- [sarabander/sicp: HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
 	- [DeathKing/Learning-SICP: MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。](https://github.com/DeathKing/Learning-SICP)
+	- [MIT/GNU Scheme User’s Manual for release 12.1](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-user.pdf)
 
 ## 配置环境
 
