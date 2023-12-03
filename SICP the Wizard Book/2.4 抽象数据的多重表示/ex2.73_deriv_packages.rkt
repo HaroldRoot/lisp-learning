@@ -52,7 +52,7 @@
            (* m1 m2)) 
           (else (list '* m1 m2))))
   ; 这里必须定义 make-sum
-  ; 但下面调用 put 过程时 需要用到 make-sum
+  ; 下面调用 put 过程时 需要用到 make-sum
   (define (make-sum a1 a2)
     (cond ((=number? a1 0) a2) 
           ((=number? a2 0) a1) 
@@ -80,7 +80,7 @@
            (expt base exponent)) 
           (else (list '** base exponent))))
   ; 这里必须定义 make-product
-  ; 但下面调用 put 过程时 需要用到 make-product
+  ; 下面调用 put 过程时 需要用到 make-product
   (define (make-product m1 m2) 
     (cond ((or (=number? m1 0)  
                (=number? m2 0))  
