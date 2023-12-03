@@ -1,4 +1,4 @@
-(load "SICP the Wizard Book/2.3 符号数据/eg2.3_2_symbolic_differentiation.scm")
+(load "SICP the Wizard Book/2.3 符号数据/eg2.3.2_symbolic_differentiation.scm")
 
 ;;; 修改 make-sum，使得当两个求和对象都是数时，make-sum 求出它们的和返回
 ;;; 可以覆盖掉 load 进来的旧 make-sum 过程！

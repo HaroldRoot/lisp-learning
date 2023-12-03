@@ -1,4 +1,4 @@
-(load "SICP the Wizard Book/2.3 符号数据/eg2.3_3_simplify.scm")
+(load "SICP the Wizard Book/2.3 符号数据/eg2.3.2_simplify.scm")
 
 (define (deriv exp var)
   (cond ((number? exp) 0)
@@ -37,7 +37,7 @@
         ((=number? exponent 0) 1)
         ((=number? exponent 1) base)
         ((and (number? base) (number? exponent)) 
-         (expt m1 m2))
+         (expt base exponent))
         (else (list '** base exponent))))
 
 (define (base exp)
